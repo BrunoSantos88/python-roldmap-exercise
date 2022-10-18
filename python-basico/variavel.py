@@ -9,5 +9,3 @@ limete_saque_diario_SC = 1500
 
 
 Brasilian_STATES = ["SP", "RJ", "SC",]
-
-print("limete_saque_diario_SP, SP")
